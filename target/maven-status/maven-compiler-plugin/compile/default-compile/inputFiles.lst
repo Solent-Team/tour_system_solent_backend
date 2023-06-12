@@ -1,9 +1,12 @@
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/repository/GuestRepository.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/controller/GuestController.java
+/home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/repository/HotelRepository.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/exception/UserNotFoundException.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/exception/CorsConfig.java
+/home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/controller/HotelController.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/repository/BookingRepository.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/model/Guest.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/TourApplication.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/controller/BookingController.java
+/home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/model/Hotel.java
 /home/ghost/Desktop/mine/ssd/gittt/tour/src/main/java/com/tour/model/Booking.java
